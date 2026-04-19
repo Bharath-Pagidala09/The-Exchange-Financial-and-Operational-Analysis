@@ -133,7 +133,7 @@ static spreadsheet reporting. The dashboards covered:
 
 ### 6. Customer Survey Insights
 An online and face-to-face survey was conducted with approximately 
-50 respondents including students, staff, alumni and community members:
+100 respondents including students, staff, alumni and community members:
 
 - Service and atmosphere rated highly at an average of 8.9 out of 10
 - Menu satisfaction rated slightly lower at 7.9 out of 10
